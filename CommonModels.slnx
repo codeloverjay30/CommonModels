@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CommonModels.Tests/CommonModels.Tests.csproj" Id="1b1e6160-4961-438e-8870-8397bd27bbdf" />
+  <Project Path="CommonModels/CommonModels.csproj" />
+</Solution>
